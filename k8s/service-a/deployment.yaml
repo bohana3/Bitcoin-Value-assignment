@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: service-a
-        image: galdahanregistry.azurecr.io/service-a:latest
+        image: bohana3/service-a2:latest
         ports:
         - containerPort: 8000
 
